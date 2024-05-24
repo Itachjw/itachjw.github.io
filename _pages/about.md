@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Lecturer in the School of Computer Science of [Central China Normal University](https://english.ccnu.edu.cn/). I got my PhD from the School of Informatics, Xiamen University, Xiamen, China, in 2022, supervised by Prof. Shaozi Li. I lead the Multimodal Affective Computing Group, which focuses on using  intellectual technologies to perceive, understand and express human emotions. In particular, I am interested in imbalance learning, weak label learning, information fusion. I am also interested in various machine learning applications in health care, bioinformatics, and human-computer interactio.
 
-For undergraduate students, please check [本科招生简章]([http://itachjw.github.io/about_cn](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章]([http://itachjw.github.io/about_cn](http://jasonyanglu.github.io/postgraduate).
+For undergraduate students, please check [本科招生简章](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章](http://jasonyanglu.github.io/postgraduate).
 
 ## Recent News
 * **Mar 13 2024**: One paper about person re-identification is accepted by ICME.
