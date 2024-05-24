@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in the [School of Computer Science](http://cs.ccnu.edu.cn/) of [Central China Normal University](https://english.ccnu.edu.cn/). I got my PhD from the School of Informatics, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2022, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/). Prior to that, I received my master's degree from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/) at Xiamen University in 2018.
+I am currently a Lecturer in the [School of Computer Science](http://cs.ccnu.edu.cn/) of [Central China Normal University](https://english.ccnu.edu.cn/). I got my PhD from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2022, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/). Prior to that, I received my master's degree from the [Department of Artificial Intelligence](https://cogsci.xmu.edu.cn/) at Xiamen University in 2018.
 
 We are the Multimodal Affective Computing Group, dedicated to leveraging intelligent technologies for the perception, comprehension, and expression of human emotions. First, we use machine learning techniques to address challenges such as data imbalance (including label and modality imbalance), weakly labeled data, and information fusion. Second, we are developing a multi-agent system (MAS) powered by Large Language Models (LLM) and Affective Computing technology, addressing challenges in healthcare, human-computer interaction, and beyond. We aim to leverage advanced AI to understand and respond to emotional cues of humans, enhancing the overall user experience.
 
