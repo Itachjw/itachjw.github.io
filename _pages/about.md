@@ -25,7 +25,7 @@ We welcome students who are interested in affective computing and multi-intellig
 ## Research Interests
 * Multimodal sentiment analysis
 * Multimodal emotion recognition
-* Weak label learning
+* Weakly supervised learning
 * Imbalance learning
 * Information fusion
 
