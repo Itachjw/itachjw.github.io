@@ -31,5 +31,5 @@ For undergraduate students, please check [本科生招生简章](http://itachjw.
 * Jingzhe Li (2022-2023, Undergraduate, Joint PhD at Fudan University-Shanghai AI Lab): Multimodal sentiment analysis
 * Yuxian Wu (2023-, Undergraduate): Multimodal sentiment analysis
 * Wenjing Zhang (2023-): Multimodal sentiment analysis
-* Weizhi Nie (2023-): Weak superised Person Re-identification
+* Weizhi Nie (2023-): Weakly supervised Person Re-identification
   
