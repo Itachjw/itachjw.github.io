@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in the School of Computer Science of [Central China Normal University](https://english.ccnu.edu.cn/). I got my PhD from the School of Informatics, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2022, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/). I focus on using intellectual technologies to perceive, understand and express human emotions. In particular, I am interested in imbalance learning, weak label learning, information fusion. I am also interested in various machine learning applications in health care, bioinformatics, and human-computer interactio.
+I am currently a Lecturer in the [School of Computer Science](http://cs.ccnu.edu.cn/) of [Central China Normal University](https://english.ccnu.edu.cn/). I got my PhD from the School of Informatics, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2022, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/). 
 
-For undergraduate students, please check [本科生招生简章](http://itachjw.github.io/undergraduate). For postgraduate students, please check [硕士生招生简章](http://itachjw.github.io/postgraduate).
+We are the Multimodal Affective Computing Group, dedicated to leveraging intelligent technologies for the perception, comprehension, and expression of human emotions. We are also exploring the integration of affective computing into healthcare and human-computer interaction. Our group's focus is on two main aspects: First, we use machine learning techniques to address challenges such as data imbalance (including label and modality imbalance), weakly labeled data, and information fusion. Second, we are building a Large Language Model (LLM) based Multi-Agent system to solve real-world problems.
+
+We welcome students who are interested in affective computing and multi-intelligence collaboration research to join us. For undergraduate students, please check [本科生招生简章](http://itachjw.github.io/undergraduate). For postgraduate students, please check [硕士生招生简章](http://itachjw.github.io/postgraduate).
 
 ## Recent News
 * **Mar 13 2024**: One paper about person re-identification is accepted by ICME.
