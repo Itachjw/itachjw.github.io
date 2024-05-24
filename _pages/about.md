@@ -29,6 +29,16 @@ We welcome students who are interested in affective computing and multi-intellig
 * Imbalance learning
 * Information fusion
 
+## Selected Funded Research Projects
+* China Postdoctoral Science Foundation project, PI
+* The post-doctoral innovative research post in Hubei Province, PI
+
+## Professional Activities
+* Journal Reviewer: TIP; TMM; TCSVT...
+* Program Committee: AAAI; ICME; IJCNN...
+
+/paper_reading/
+
 ## Supervised Students
 * Jingzhe Li (2022-2023, Undergraduate, Joint PhD at Fudan University-Shanghai AI Lab): Multimodal sentiment analysis
 * Yuxian Wu (2023-, Undergraduate): Multimodal sentiment analysis
