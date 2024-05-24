@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## 机器学习基础（必读）
-1. 公开课：[李宏毅机器学习](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click&vd_source=34dcb5c384c5b0c1bdfd1a31306cb66e)、[李飞飞计算机视觉](https://www.bilibili.com/video/BV1S94y1o7Zx/?vd_source=34dcb5c384c5b0c1bdfd1a31306cb66e)，以及书：[动手学深度学习](http://zh.d2l.ai/)。
-2. 完成Python和PyTorch的基础知识学习，教程[包括代码](https://tangshusen.me/Dive-into-DL-PyTorch/#/)。
+1. 公开课：[李宏毅机器学习](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click&vd_source=34dcb5c384c5b0c1bdfd1a31306cb66e)。
+2. 完成Python和PyTorch的基础知识学习，教程[包括代码](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
+3. 理解《统计学习方法》第一章中的模型、策略、算法。
 3. 读懂[该代码](https://github.com/thuiar/Self-MM/tree/main)，在colab上运行成功，并尝试复现该repo中的实验结果
 
 ## 深度学习（必选）
