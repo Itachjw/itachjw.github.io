@@ -32,4 +32,4 @@ For undergraduate students, please check [本科招生简章](http://itachjw.git
 * Yuxian Wu (2023-, Undergraduate): Multimodal sentiment analysis
 * Wenjing Zhang (2023-): Multimodal sentiment analysis
 * Weizhi Nie (2023-): Weak superised Person Re-identification
-
+  
