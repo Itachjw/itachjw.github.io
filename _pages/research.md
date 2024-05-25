@@ -7,6 +7,7 @@ redirect_from:
   - /research
 ---
 
+![MAC Group](https://itachjw.github.io/images/overview.png "Mutimodal Affective Computing")
 
 ## Multimodal Affective Computing
 
