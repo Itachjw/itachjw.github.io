@@ -7,7 +7,8 @@ redirect_from:
   - /research
 ---
 
-## Multimodal Sentiment Analysis
+
+## Multimodal Affective Computing
 
 
 
