@@ -16,10 +16,13 @@ author_profile: true
 1. [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 2. [Efficient Estimation of Word Representations in Vector Space](https://openreview.net/forum?id=idpCdOWtqXd60)
 3. [Focal loss for dense object detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
-4. [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)
+4. [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)
 5. [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 6. [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-6. [Multimodal Machine Learning: A Survey and Taxonomy] (https://arxiv.org/pdf/1705.09406)
+7. [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://proceedings.mlr.press/v139/kim21k/kim21k.pdf)
+8. [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
+9. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1163.pdf)
+9. [Multimodal Machine Learning: A Survey and Taxonomy] (https://arxiv.org/pdf/1705.09406)
 
 ## 细分方向（可选）
 
