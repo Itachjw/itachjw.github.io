@@ -12,7 +12,7 @@ redirect_from:
 
 ## 1. Multimodal Affective Computing
 
-多模态情感计算，分析多源异构的多模态数据，运用机器学习、神经网络等人工智能技术识别和解释人类情感和主观信息。
+多模态情感计算，针对多源异构的多模态数据，利用机器学习、神经网络等人工智能技术识别和解释人类情感和主观信息。
 
 ![MAC Group](https://itachjw.github.io/images/affect.png "多模态情感计算")
 
