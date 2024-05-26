@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /group
 ---
-欢迎来到华中师范大学
+### 欢迎来到华中师范大学
 
 ![这是图片](https://itachjw.github.io/images/ccnu4.jpg "CCNU")
 
