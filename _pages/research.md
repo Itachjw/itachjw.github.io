@@ -23,13 +23,13 @@ redirect_from:
 
 ![MAC Group](https://itachjw.github.io/images/eeg.png "脑电图分析")
 
-## Person Re-identification
+## 3. Person Re-identification
 
 行人再识别，旨在根据输入（行人图像、行人描述等）从监控视频中自动查找特定的行人，广泛应用于智慧城市、安防等场景。
 
 ![MAC Group](https://itachjw.github.io/images/person.png "行人再识别")
 
-## Face Detection
+## 4. Face Detection
 
 人脸检测
 
