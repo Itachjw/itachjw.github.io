@@ -26,4 +26,4 @@ redirect_from:
 ![MAC Group](https://itachjw.github.io/images/person.png "")
 
 
-![MAC Group](https://itachjw.github.io/images/face.png "")
+![MAC Group](https://itachjw.github.io/images/face.jpg "")
