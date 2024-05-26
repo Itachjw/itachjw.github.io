@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "研究成果展示"
 permalink: /research/
 author_profile: true
 redirect_from:
