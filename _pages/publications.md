@@ -15,7 +15,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE International Conference on Multimedia and Expo_, pp.1-6, Niagara Falls, Canada, July 15-19, 2024. (CCF-B)
   
 - [<span style="color:blue">**ICASSP’24**</span>] Modality-dependent sentiments exploring for multi-modal sentiment classification  
-  Jingzhe Li, **Chengji Wang**\*, Zhiming Luo, Yuxian Wu, and Xingpeng Jiang  
+  Jingzhe Li, **Chengji Wang**\*, Zhiming Luo, Yuxian Wu, and Xingpeng Jiang\*  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.7930-7934, Seoul, Korea, April 14-19, 2024. (CCF-B)
   
 - [<span style="color:blue">**IJCAI’21**</span>] Text-based Person Search via Multi-Granularity Embedding Learning  
@@ -28,7 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journal
 - [<span style="color:blue">**软件导刊**</span>] Graphic Sentiment Analysis Based on Pairwise Attention Mechanisms  
-  Jingzhe Li, Yuxian Wu, Junkai Cai, **Chengji Wang**\*, and Xingpeng Jiang  
+  Jingzhe Li, Yuxian Wu, Junkai Cai, **Chengji Wang**\*, and Xingpeng Jiang\*  
   _Software Guide_, vol. 23, no. 4, pp. 178-185, 2024. (In Chinese, CCF-C)
   
 - [<span style="color:blue">**软件学报**</span>] Text-based Person Search via Virtual Attribute Learning  
