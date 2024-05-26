@@ -17,6 +17,9 @@ main:
     
   #- title: "CV"
   #  url: /cv/
+
+  - title: "Group"
+    url: /group/
     
   - title: "Contact"
     url: /contact/
