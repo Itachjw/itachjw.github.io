@@ -43,6 +43,3 @@ We welcome students who are interested in affective computing and multi-intellig
 * Wenjing Zhang (2023-): Multimodal sentiment analysis
 * Weizhi Nie (2023-): Weakly supervised Person Re-identification
 
-## Useful learning resources
-* [Academic Research](http://itachjw.github.io/research_start)
-* [Paper Reading](http://itachjw.github.io/paper_reading)
