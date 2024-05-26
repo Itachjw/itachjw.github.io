@@ -12,6 +12,6 @@ redirect_from:
 
 ![这是图片](https://itachjw.github.io/images/ccnu1.jpg "CCNU")
 
-![这是图片](https://itachjw.github.io/images/ccnu2.png "CCNU")
+![这是图片](https://itachjw.github.io/images/ccnu2.jpg "CCNU")
 
-![这是图片](https://itachjw.github.io/images/ccnu3.jpg "CCNU")
+![这是图片](https://itachjw.github.io/images/ccnu3.png "CCNU")
