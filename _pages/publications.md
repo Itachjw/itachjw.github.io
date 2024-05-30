@@ -37,15 +37,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
 - [<span style="color:blue">**NCAA**</span>] Improving embedding learning by virtual attribute decoupling for text-based person search  
   **Chengji Wang**, Zhiming Luo, Yaojin Lin, and Shaozi Li  
-  _Neural Computing and Applications_, vol.34, pp. 5625–5647, 2022. (JCR-2, CCF-C)
+  _Neural Computing and Applications_, vol.34, pp. 5625–5647, 2022. (JCR 1区, 中科院2区, CCF-C)
   
 - [<span style="color:blue">**Neurocomputing**</span>] Divide-and-merge the embedding space for cross-modality person search  
   **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li  
-  _Neurocomputing_, vol.463, pp. 388-399, 2021. (JCR-2, CCF-C)
+  _Neurocomputing_, vol.463, pp. 388-399, 2021. (JCR 1区, 中科院2区, CCF-C)
   
 - [<span style="color:blue">**MTAA**</span>] SAFD: single shot anchor free face detector  
   **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li  
-  _Multimedia Tools and Applications_, vol. 80, pp. 13761-13785, 2021. (JCR-3, CCF-C)
+  _Multimedia Tools and Applications_, vol. 80, pp. 13761-13785, 2021. (JCR 2区, 中科院3区, CCF-C)
   
 - [<span style="color:blue">**智能系统学报**</span>] Face detection method fusing multi-layer features  
   **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li  
