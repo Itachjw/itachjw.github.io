@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "王成济"
+title                    : "CCNU-MAC"
 title_separator          : "-"
 name                     : &name "Chengji Wang"
 description              : &description "personal description"
