@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CCNU-MAC"
+title                    : "MAC Group at CCNU"
 title_separator          : "-"
 name                     : &name "Chengji Wang"
 description              : &description "personal description"
