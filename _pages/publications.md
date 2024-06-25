@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Weizhi Nie, **Chengji Wang**\*, Hao Sun, and Wei Xie  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
-- [<span style="color:blue">**PRCVE’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis  
+- [<span style="color:blue">**PRCV’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis  
   Yuxian Wu, **Chengji Wang**\*, Jingzhe Li, Wenjing Zhang, and Xingpeng Jiang  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
