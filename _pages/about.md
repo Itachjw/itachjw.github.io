@@ -15,12 +15,13 @@ We are the Multimodal Affective Computing Group, dedicated to leveraging intelli
 We welcome students who are interested in affective computing and multi-intelligence collaboration research to join us. For undergraduate students, please check [本科生招生简章](http://itachjw.github.io/undergraduate). For postgraduate students, please check [硕士生招生简章](http://itachjw.github.io/postgraduate).
 
 ## Recent News
-* **Mar 13 2024**: One paper about person re-identification is accepted by ICME.
-* **Dec 12 2023**: One paper about multimodal sentiment analysis is accepted by ICASSP. Congrats to Jingzhe Li!
-* **Nov 17 2023**: One China Postdoctoral Science Foundation project is granted.
-* **Aug 22 2023**: I am selected as a post-doctoral innovative research post in Hubei Province.
-* **Apr 14 2023**: One paper about multimodal sentiment analysis is accepted by SOFTWARE GUIDE (In Chinese). Congrats to Jingzhe Li!
-* **Oct 20 2022**: Join [School of Computer Science](https://cs.ccnu.edu.cn/) at Central China Normal University.
+* **Jun. 25 2024**: Two paper are accepted by PRCV. Congrats to Weizhi and Yuxian!
+* **Mar. 13 2024**: One paper about person re-identification is accepted by ICME.
+* **Dec. 12 2023**: One paper about multimodal sentiment analysis is accepted by ICASSP. Congrats to Jingzhe Li!
+* **Nov. 17 2023**: One China Postdoctoral Science Foundation project is granted.
+* **Aug. 22 2023**: I am selected as a post-doctoral innovative research post in Hubei Province.
+* **Apr. 14 2023**: One paper about multimodal sentiment analysis is accepted by SOFTWARE GUIDE (In Chinese). Congrats to Jingzhe Li!
+* **Oct. 20 2022**: Join [School of Computer Science](https://cs.ccnu.edu.cn/) at Central China Normal University.
 
 ## Research Interests
 * Multimodal sentiment analysis
