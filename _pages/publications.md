@@ -10,6 +10,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates the corresponding author.
 
 ## Conference
+- [<span style="color:blue">**PRCV’24**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification   
+  Weizhi Nie, **Chengji Wang**\*, Hao Sun, and Wei Xie  
+  _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
+
+- [<span style="color:blue">**PRCVE’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis  
+  Yuxian Wu, **Chengji Wang**\*, Jingzhe Li, Wenjing Zhang, and Xingpeng Jiang  
+  _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
+
 - [<span style="color:blue">**ICME’24**</span>] Omni-Granularity Embedding Network for Text-to-Image Person Retrieval   
   **Chengji Wang**\*, Zhiming Luo, and Shaozi Li  
   _IEEE International Conference on Multimedia and Expo_, pp.1-6, Niagara Falls, Canada, July 15-19, 2024. (CCF-B)
