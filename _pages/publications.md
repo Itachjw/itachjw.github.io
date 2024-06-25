@@ -30,7 +30,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Chengji Wang**, Zhiming Luo, Yaojin Lin, and Shaozi Li  
   _International Joint Conference on Artificial Intelligence_, pp.1068-1074, Montreal-themed virtual reality, Canada, August 19-26, 2021. (CCF-A)
   
-- [<span style="color:blue">**ICPR’21**</span>] Anchor free network for multi-scale face detection  
+- [<span style="color:blue">**ICPR’18**</span>] Anchor free network for multi-scale face detection  
   **Chengji Wang**, Zhiming Luo, Sheng Lian, and Shaozi Li  
   _International Conference on Pattern Recognition_, pp.1554-1559, Beijing, China, August 20-24, 2018. (CCF-C)
 
