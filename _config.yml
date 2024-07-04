@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chengji Wang"
 title_separator          : "-"
-name                     : &name "Chengji Wang\\王成济"
+name                     : &name "Chengji Wang"
 description              : &description "personal description"
 url                      : https://itachjw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Itachjw/itachjw.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Chengji Wang"
+  name             : "Chengji Wang\\王成济"
   bio              : "Lecture, Central China Normal University"
   location         : "Wuhan"
   email            : "wcj@ccnu.edu.cn" 
