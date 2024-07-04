@@ -22,7 +22,8 @@ repository               : "Itachjw/itachjw.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Chengji Wang\\王成济"
+  name             : "Chengji Wang"
+  name             : "王成济"
   bio              : "Lecture, Central China Normal University"
   location         : "Wuhan"
   email            : "wcj@ccnu.edu.cn" 
