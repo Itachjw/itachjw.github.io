@@ -1,6 +1,6 @@
 ---
 permalink: /about_cn/
-title: "关于 [English](http://itachjw.github.io)"
+title: "个人简介 [English](http://itachjw.github.io)"
 excerpt: "关于"
 author_profile: true
 ---
