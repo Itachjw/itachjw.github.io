@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About [中文](http://itachjw.github.io/about_cn)"
+title: "About me [中文](http://itachjw.github.io/about_cn)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
