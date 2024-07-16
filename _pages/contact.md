@@ -14,8 +14,9 @@ redirect_from:
   
   办公室：华中师范大学南湖校区南湖综合楼7050a室
   
-* WeChat(请注明来意):  
- ![这是图片](https://itachjw.github.io/images/weichat.jpg "Magic Gardens")
+* WeChat(请注明来意):
+  <img src=[https://img-blog.csdnimg.cn/20200822014538211.png](https://itachjw.github.io/images/weichat.jpg) width=20% />
+  ![这是图片](https://itachjw.github.io/images/weichat.jpg "Magic Gardens")
 
 
  ![这是图片](https://itachjw.github.io/images/江湖.jpeg "Magic Gardens")
