@@ -13,6 +13,9 @@ redirect_from:
   cjwang2015 [at] foxmail.com  
   
   办公室：华中师范大学南湖校区南湖综合楼7050a室
+  
+* WeChat(请注明来意):  
+ ![这是图片](https://itachjw.github.io/images/weichat.jpg "Magic Gardens")
 
 
  ![这是图片](https://itachjw.github.io/images/江湖.jpeg "Magic Gardens")
