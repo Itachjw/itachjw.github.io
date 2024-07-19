@@ -15,5 +15,4 @@ redirect_from:
 * WeChat
 <img src="../images/weichat.jpg" style="height:200px"/>
 
- ![这是图片](https://itachjw.github.io/images/江湖.jpeg "Magic Gardens")
 
