@@ -20,6 +20,6 @@ redirect_from:
 
 
  <div align="bottom">
- <img src="https://itachjw.github.io/images/江湖.jpeg" width=100% high=80% />
+ <img src="https://itachjw.github.io/images/江湖.jpeg" width=100% high=50% />
  </div>
 
