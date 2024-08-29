@@ -36,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journal
 - [<span style="color:blue">**Neural Networks**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation  
-  Jiawei Su, Zhiming Luo, **Chengji Wang**, Sheng Lian, Xuejuan Lin, Shaozi Li
+  Jiawei Su, Zhiming Luo, **Chengji Wang**, Sheng Lian, Xuejuan Lin, Shaozi Li   
   _Neural Networks_, vol. 180, 106657, 2024. (中科院1区, CCF-B)
   
 - [<span style="color:blue">**软件学报**</span>] Text-based Person Search via Virtual Attribute Learning  
