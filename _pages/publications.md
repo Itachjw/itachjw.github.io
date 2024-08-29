@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _International Conference on Pattern Recognition_, pp.1554-1559, Beijing, China, August 20-24, 2018. (CCF-C)
 
 ## Journal
-- [<span style="color:blue">**Neural Networks**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation
+- [<span style="color:blue">**Neural Networks**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation  
   Jiawei Su, Zhiming Luo, **Chengji Wang**, Sheng Lian, Xuejuan Lin, Shaozi Li
   _Neural Networks_, vol. 180, 106657, 2024. (中科院1区, CCF-B)
   
