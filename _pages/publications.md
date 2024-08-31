@@ -45,7 +45,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**Neurocomputing**</span>] Divide-and-merge the embedding space for cross-modality person search  
   **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li   
-  _Neurocomputing_, vol. 463, pp. 388-399, 2021. (中科院2区, CCF-C)
+  _Neurocomputing_, vol. 463, pp. 388-399, 2021. (中科院2区, CAAI-B)
 
 - [<span style="color:blue">**智能系统学报**</span>] Face detection method fusing multi-layer features  
   **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li   
