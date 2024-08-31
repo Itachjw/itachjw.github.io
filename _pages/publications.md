@@ -32,15 +32,24 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
 - [<span style="color:blue">**ICPR’18**</span>] Anchor free network for multi-scale face detection  
   **Chengji Wang**, Zhiming Luo, Sheng Lian, and Shaozi Li  
-  _International Conference on Pattern Recognition_, pp.1554-1559, Beijing, China, August 20-24, 2018. (CCF-C)
+  _International Conference on Pattern Recognition_, pp.1554-1559, Beijing, China, August 20-24, 2018. (CAAI-B)
 
 ## Journal
-- [<span style="color:blue">**Neural Networks**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation  
+- [<span style="color:blue">**NN**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation  
   Jiawei Su, Zhiming Luo, **Chengji Wang**, Sheng Lian, Xuejuan Lin, Shaozi Li   
   _Neural Networks_, vol. 180, 106657, 2024. (中科院1区, CCF-B)
   
 - [<span style="color:blue">**软件学报**</span>] Text-based Person Search via Virtual Attribute Learning  
   **Chengji Wang**, Jiawei Su, Zhiming Luo, Donglin Cao, Yaojin Lin, and Shaozi Li   
   _Journal of software_, vol. 34, no. 5, pp. 2035-2050, 2023. (In Chinese, CCF-A)
+
+- [<span style="color:blue">**Neurocomputing**</span>] Divide-and-merge the embedding space for cross-modality person search  
+  **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li   
+  _Neurocomputing_, vol. 463, pp. 388-399, 2021. (中科院2区, CCF-C)
+
+- [<span style="color:blue">**智能系统学报**</span>] Face detection method fusing multi-layer features  
+  **Chengji Wang**, Zhiming Luo, Zhun Zhong, and Shaozi Li   
+  _CAAI Transactions on Intelligent Systems_, vol. 13, no. 1, pp. 138-146, 2018. (In Chinese, CAAI-A)
+  
   
 
