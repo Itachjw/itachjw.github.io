@@ -12,7 +12,7 @@ author_profile: true
 我们非常欢迎对情感计算和多智能协作感兴趣的同学加入我们。在本课题组发表论文的同学，课题组会根据论文档次发放较为丰厚的现金奖励，在经费充足的前提下也会尽可能支持课题组同学参加学术会议。
 有意加入课题组的本科生，请查看[本科招生简章](http://itachjw.github.io/undergraduate/)；有意加入课题组的硕士生，请查看[硕士招生简章](http://itachjw.github.io/postgraduate/)。
 
-<span style="color:red">**24级仍有少量专硕名额，请尽早与我联系。欢迎25级保研的同学提前联系。欢迎给我发邮件咨询**</span>
+<span style="color:red">**欢迎25级保研的同学提前联系。欢迎给我发邮件咨询**</span>
 
 ## 研究兴趣
 
