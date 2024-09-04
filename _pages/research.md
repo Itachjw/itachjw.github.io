@@ -18,8 +18,10 @@ redirect_from:
 
 
 ## 2. 智慧教育
+
 运用计算机视觉、情感计算、多模态表示学习等技术，挖掘和分析学生状态，促进“师-机-生”三元协同发展
 
+![MAC Group](https://itachjw.github.io/images/coll_learn.jpg "Collaboration")
 
 
 ## 3. Person Re-identification
