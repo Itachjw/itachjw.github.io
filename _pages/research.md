@@ -17,11 +17,10 @@ redirect_from:
 ![MAC Group](https://itachjw.github.io/images/affect.png "Affects")
 
 
-## 2. Brain EEG
+## 2. 智慧教育
+运用计算机视觉、情感计算、多模态表示学习等技术，挖掘和分析学生状态，促进“师-机-生”三元协同发展
 
-脑电图数据分析，通过脑电采集设备提取人脑神经生理信号，分析人员的情绪状态。脑电图数据分析广泛用于情感计算的研究，在医学、人机交互等领域广泛应用。
 
-![MAC Group](https://itachjw.github.io/images/eeg.png "EEG")
 
 ## 3. Person Re-identification
 
