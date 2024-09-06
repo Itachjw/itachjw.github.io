@@ -37,7 +37,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journal
 - [<span style="color:blue">**SPL**</span>] Cross-Modal Feature Fusion-Based Knowledge Transfer for Text-Based Person Search  
   Kaiyang You, Wenjing Chen, **Chengji Wang**, Hao Sun, Wei Xie   
-  _IEEE Signal Processing Letters_, vol. 31, pp. 2230-2234, 2024. (中科院1区, CCF-B)
+  _IEEE Signal Processing Letters_, vol. 31, pp. 2230-2234, 2024. (中科院2区, CCF-C)
 
 - [<span style="color:blue">**NN**</span>] Reconstruct incomplete relation for incomplete modality brain tumor segmentation  
   Jiawei Su, Zhiming Luo, **Chengji Wang**, Sheng Lian, Xuejuan Lin, Shaozi Li   
