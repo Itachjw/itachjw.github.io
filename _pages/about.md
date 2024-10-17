@@ -31,11 +31,12 @@ We welcome students who are interested in affective computing and multi-intellig
 * Information fusion
 
 ## Selected Funded Research Projects
+* National Natural Science Foundation of China, PI
 * China Postdoctoral Science Foundation project, PI
 * The post-doctoral innovative research post in Hubei Province, PI
 
 ## Professional Activities
-* Journal Reviewer: TIP; TMM; TCSVT...
+* Journal Reviewer: TIP; TMM; TCSVT; IPM; KBS; TNNLS...
 * Program Committee: AAAI; ICME; IJCNN...
 
 ## Supervised Students
