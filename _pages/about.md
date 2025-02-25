@@ -12,7 +12,7 @@ I am currently a [Lecturer](https://cs.ccnu.edu.cn/info/1111/2752.htm) in the [S
 
 We are the Multimodal Affective Computing Group, dedicated to leveraging intelligent technologies for the perception, comprehension, and expression of human emotions. First, we use machine learning techniques to address challenges such as data imbalance (including label and modality imbalance), weakly labeled data, and information fusion. Second, we are developing a multi-agent system (MAS) powered by Large Language Models (LLM) and Affective Computing technology, addressing challenges in healthcare, human-computer interaction, education and beyond. We aim to leverage advanced AI to understand and respond to emotional cues of humans, enhancing the overall user experience.
 
-We welcome students who are interested in affective computing and multi-intelligence collaboration research to join us. For undergraduate students, please check [本科生招生简章](http://itachjw.github.io/undergraduate). 
+We welcome students who are interested in affective computing and multi-intelligence collaboration research to join us. 
 
 ## Recent News
 * **Jun. 25 2024**: Two paper are accepted by PRCV. Congrats to Weizhi and Yuxian!
