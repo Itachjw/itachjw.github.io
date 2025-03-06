@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Weizhi Nie, **Chengji Wang**\*, Hao Sun, and Wei Xie  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
-- [<span style="color:blue">**PRCV’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis. [pdf](itachjw.github.io/_paper/PRCV2024_MSA)[Code](https://github.com/Itachjw/UGF)   
+- [<span style="color:blue">**PRCV’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis. [pdf](itachjw.github.io/_paper/PRCV2024_MSA) [code](https://github.com/Itachjw/UGF)   
   Yuxian Wu, **Chengji Wang**\*, Jingzhe Li, Wenjing Zhang, and Xingpeng Jiang  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Chengji Wang**\*, Zhiming Luo, and Shaozi Li  
   _IEEE International Conference on Multimedia and Expo_, pp.1-6, Niagara Falls, Canada, July 15-19, 2024. (CCF-B)
   
-- [<span style="color:blue">**ICASSP’24**</span>] Modality-dependent sentiments exploring for multi-modal sentiment classification. [pdf](itachjw.github.io/_paper/ICASSP2024)[code](https://github.com/Itachjw/MDSE)  
+- [<span style="color:blue">**ICASSP’24**</span>] Modality-dependent sentiments exploring for multi-modal sentiment classification. [pdf](itachjw.github.io/_paper/ICASSP2024) [code](https://github.com/Itachjw/MDSE)  
   Jingzhe Li, **Chengji Wang**\*, Zhiming Luo, Yuxian Wu, and Xingpeng Jiang\*  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.7930-7934, Seoul, Korea, April 14-19, 2024. (CCF-B)
   
