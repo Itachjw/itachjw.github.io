@@ -10,11 +10,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates the corresponding author.
 
 ## Conference
-- [<span style="color:blue">**PRCV’24**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification [pdf](itachjw.github.io/_paper/PRCV2024_WTP) [code](https://github.com/Itachjw/ICPG)
+- [<span style="color:blue">**PRCV’24**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification [pdf](itachjw.github.io/_paper/PRCV2024_WTP) [code](https://github.com/Itachjw/ICPG)  
   Weizhi Nie, **Chengji Wang**\*, Hao Sun, and Wei Xie  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
-- [<span style="color:blue">**PRCV’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis [pdf](itachjw.github.io/_paper/PRCV2024_MSA)[Code](https://github.com/Itachjw/UGF)   
+- [<span style="color:blue">**PRCV’24**</span>] Uncertainty-aware Gradient Modulation and Feature Masking for Multimodal Sentiment Analysis \[[pdf]\](itachjw.github.io/_paper/PRCV2024_MSA)\[[Code]\](https://github.com/Itachjw/UGF)   
   Yuxian Wu, **Chengji Wang**\*, Jingzhe Li, Wenjing Zhang, and Xingpeng Jiang  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
 
