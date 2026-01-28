@@ -47,10 +47,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Chengji Wang**, Weizhi Nie, Hongbo Zhang Hao Sun, and Mang Ye  
   _IEEE Transactions on Information Forensics and Security_, pp.1-14, 2026. (CCF-A)
 
-- [<span style="color:blue">**TGRS’25**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/TGRS.pdf)\] \[[code](https://github.com/ChenHanlizi/PNPL)\]  
-  Hao Sun, Hanlizi Chen, Wenjing Chen, **Chengji Wang**, Wei Xie, and Xiaoqiang Lu  
-  _IEEE Transactions on Geoscience and Remote Sensing_, pp.1-14, vol. 63, 2025. (CCF-B)
-
 - [<span style="color:blue">**SPL**</span>] Cross-Modal Feature Fusion-Based Knowledge Transfer for Text-Based Person Search  
   Kaiyang You, Wenjing Chen, **Chengji Wang**, Hao Sun, Wei Xie   
   _IEEE Signal Processing Letters_, vol. 31, pp. 2230-2234, 2024. (中科院2区, CCF-C)
