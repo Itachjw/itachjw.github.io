@@ -20,7 +20,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**NeurIPS’25**</span>] PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/PC_Net.pdf)\] \[[code]( https://github.com/mingyao1120/PC-Net)\]  
   Mingyao Zhou, Hao Sun, Wei Xie, Ming Dong, **Chengji Wang**, and Mang Ye 
-  _The Thirty-ninth Annual Conference on Neural Information Processing Systems_, pp.1-27, San Diego, USA, Dec 3-7, 2024. (CCF-A)
+  _The Thirty-ninth Annual Conference on Neural Information Processing Systems_, pp.1-27, San Diego, USA, Dec 3-7, 2025. (CCF-A)
 
 - [<span style="color:blue">**TGRS’25**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/TGRS.pdf)\] \[[code](https://github.com/ChenHanlizi/PNPL)\]  
   Hao Sun, Hanlizi Chen, Wenjing Chen, **Chengji Wang**, Wei Xie, and Xiaoqiang Lu  
