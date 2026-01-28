@@ -10,6 +10,22 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates the corresponding author.
 
 ## Conference
+- [<span style="color:blue">**TIP’26**</span>] P-CLIP: Progressive Discrepancy Learning for One-Shot Text-to-Image Person Re-identification\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/P-CLIP.pdf)\] \[[code](https://github.com/Itachjw/P-CLIP)\]  
+ **Chengji Wang**, Ming Dong, Mang Ye， Hao Sun, and Xingpeng Jiang  
+  _IEEE Transactions on Image Processing_, pp.1-15, 2026. (CCF-A)
+
+- [<span style="color:blue">**TIIFS’26**</span>] Consensus Labelling: Prompt-Guided Clustering Refinement for Weakly Supervised Text-based Person Re-Identification. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/IEEE2025.pdf)\] \[[code](https://github.com/LeviWeiZhi/CLPC)\]  
+  **Chengji Wang**, Weizhi Nie, Hongbo Zhang Hao Sun, and Mang Ye  
+  _IEEE Transactions on Information Forensics and Security_, pp.1-14, 2026. (CCF-A)
+
+- [<span style="color:blue">**NeurIPS’25**</span>] PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/PC_Net.pdf)\] \[[code]( https://github.com/mingyao1120/PC-Net)\]  
+  Mingyao Zhou, Hao Sun, Wei Xie, Ming Dong, **Chengji Wang**, and Mang Ye 
+  _The Thirty-ninth Annual Conference on Neural Information Processing Systems_, pp.1-27, San Diego, USA, Dec 3-7, 2024. (CCF-A)
+
+- [<span style="color:blue">**TGRS’25**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/TGRS.pdf)\] \[[code](https://github.com/ChenHanlizi/PNPL)\]  
+  Hao Sun, Hanlizi Chen, Wenjing Chen, **Chengji Wang**, Wei Xie, and Xiaoqiang Lu  
+  _IEEE Transactions on Geoscience and Remote Sensing_, pp.1-14, vol. 63, 2025. (CCF-B)
+
 - [<span style="color:blue">**PRCV’24**</span>] Image-Centered Pseudo Label Generation for Weakly Supervised Text-based Person Re-Identification. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/PRCV2024_WTP.pdf)\] \[[code](https://github.com/Itachjw/ICPG)\]  
   Weizhi Nie, **Chengji Wang**\*, Hao Sun, and Wei Xie  
   _The 7th Chinese Conference on Pattern Recognition and Computer Vision_, pp.1-14, Urumchi, China, October 18-20, 2024. (CCF-C)
