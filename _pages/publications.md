@@ -40,7 +40,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Journal
 - [<span style="color:blue">**Inform Fusion’26**</span>] Divide-and-conquer: Prompt-based distribution learning for multimodal sentiment analysis\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/Divide-and-Conquer Prompt-based Distribution Learning for Multimodal Sentiment.pdf)\] \[[code]([https://github.com/Itachjw/P-CLIP](https://github.com/Dongri404/PDL))\]  
- **Chengji Wang**, Wenjing Zhang, Guanyi Chen, Ming Dong, Tingting He, Xingpeng Jiang 
+ **Chengji Wang**, Wenjing Zhang, Guanyi Chen, Ming Dong, Tingting He, Xingpeng Jiang  
   _Information Fusion_, Volume 133, 104293, 2026. (CAAI-A)
 
 - [<span style="color:blue">**TIP’26**</span>] P-CLIP: Progressive Discrepancy Learning for One-Shot Text-to-Image Person Re-identification\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/P-CLIP.pdf)\] \[[code](https://github.com/Itachjw/P-CLIP)\]  
