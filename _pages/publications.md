@@ -39,7 +39,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _International Conference on Pattern Recognition_, pp.1554-1559, Beijing, China, August 20-24, 2018. (CAAI-B)
 
 ## Journal
-- [<span style="color:blue">**Inform Fusion’26**</span>] Divide-and-conquer: Prompt-based distribution learning for multimodal sentiment analysis\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/INFFU.pdf)\] \[[code]([https://github.com/Itachjw/P-CLIP](https://github.com/Dongri404/PDL))\]  
+- [<span style="color:blue">**TAFFC’26**</span>] BHDD: Facial Behaviors Modeling and Hierarchical Multimodal
+Fusion for Depression Detection from Vlog Data\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/BHDD.pdf)\] \[[code](https://github.com/mmy001/BHDD)\]  
+ Mengyuan Ma, **Chengji Wang**, Sijia Liu , Weizhong Zhao, Xingpeng Jiang  
+  _Information Fusion_, Volume 133, 104293, 2026. (CAAI-A)
+
+- [<span style="color:blue">**Inform Fusion’26**</span>] Divide-and-conquer: Prompt-based distribution learning for multimodal sentiment analysis\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/INFFU.pdf)\] \[[code](https://github.com/Dongri404/PDL)\]  
  **Chengji Wang**, Wenjing Zhang, Guanyi Chen, Ming Dong, Tingting He, Xingpeng Jiang  
   _Information Fusion_, Volume 133, 104293, 2026. (CAAI-A)
 
