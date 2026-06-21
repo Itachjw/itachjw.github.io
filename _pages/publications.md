@@ -44,7 +44,7 @@ Fusion for Depression Detection from Vlog Data\[[pdf](https://github.com/Itachjw
  Mengyuan Ma, **Chengji Wang**, Sijia Liu , Weizhong Zhao, Xingpeng Jiang  
   _IEEE Transactions on Affective Computing_, 2026. (CAAI-A)
 
-- [<span style="color:blue">**Inform Fusion’26**</span>] Divide-and-conquer: Prompt-based distribution learning for multimodal sentiment analysis\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/INFFU.pdf)\] \[[code](https://github.com/Dongri404/PDL)\]  
+- [<span style="color:blue">**Inform Fusion’26**</span>] Divide-and-conquer: Prompt-based distribution learning for multimodal sentiment analysis\[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/PDL_Inffus.pdf)\] \[[code](https://github.com/Dongri404/PDL)\]  
  **Chengji Wang**, Wenjing Zhang, Guanyi Chen, Ming Dong, Tingting He, Xingpeng Jiang  
   _Information Fusion_, Volume 133, 104293, 2026. (CAAI-A)
 
