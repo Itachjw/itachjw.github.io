@@ -11,11 +11,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conference
 - [<span style="color:blue">**ACM MM’26**</span>] Towards Human-like Empathy: Confidence-Driven Fast-Slow Reasoning for Multimodal Empathetic Response Generation.  
-  Xin Li, **Chengji Wang**, Wangda Zhu, Tingting He, and Xiangen Hu  
+  Xin Li, **Chengji Wang**\*, Wangda Zhu, Tingting He, and Xiangen Hu  
   _The 34th ACM International Conference on Multimedia_, 2026. (CCF-A)
 
 - [<span style="color:blue">**ACM MM’26**</span>] ABC-Emo: Belief-Catalyzed Emotional Reasoning for Multimodal Emotion Recognition in Conversation.  
-  Anqi Cheng, **Chengji Wang**, Wangda Zhu, Tingting He, and Xiangen Hu  
+  Anqi Cheng, **Chengji Wang**\*, Wangda Zhu, Tingting He, and Xiangen Hu  
   _The 34th ACM International Conference on Multimedia_, 2026. (CCF-A)
 
 - [<span style="color:blue">**NeurIPS’25**</span>] PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network. \[[pdf](https://github.com/Itachjw/itachjw.github.io/blob/master/_paper/PC_Net.pdf)\] \[[code]( https://github.com/mingyao1120/PC-Net)\]  
